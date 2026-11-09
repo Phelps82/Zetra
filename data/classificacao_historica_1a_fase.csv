@@ -1,0 +1,21 @@
+temporada,pos,clube,pontos,jogos,vitorias,empates,derrotas,gols_pro,gols_contra,saldo,pontos_deduzidos,fonte
+2025,1,Sousa,20,9,6,2,1,14,3,11,0,api-futebol.com.br
+2025,2,Botafogo-PB,19,9,6,1,2,19,8,11,0,api-futebol.com.br
+2025,3,Treze,18,9,5,3,1,18,8,10,0,api-futebol.com.br
+2025,4,Serra Branca,17,9,5,2,2,21,8,13,0,api-futebol.com.br
+2025,5,Campinense,14,9,4,2,3,14,10,4,0,api-futebol.com.br
+2025,6,Esporte de Patos,10,9,3,1,5,14,16,-2,0,api-futebol.com.br
+2025,7,Pombal,9,9,2,3,4,7,11,-4,0,api-futebol.com.br
+2025,8,Nacional de Patos,9,9,2,3,4,15,21,-6,0,api-futebol.com.br
+2025,9,Auto Esporte,7,9,1,4,4,9,16,-7,0,api-futebol.com.br
+2025,10,Picuiense,1,9,0,1,8,5,35,-30,0,api-futebol.com.br
+2024,1,Treze,21,9,7,0,2,18,6,12,0,Wikipédia (en)
+2024,2,Serra Branca,17,9,5,2,2,13,6,7,0,Wikipédia (en)
+2024,3,Botafogo-PB,17,9,5,2,2,13,9,4,0,Wikipédia (en)
+2024,4,Sousa,14,9,4,2,3,11,6,5,0,Wikipédia (en)
+2024,5,CSP,13,9,4,1,4,10,9,1,0,Wikipédia (en)
+2024,6,Campinense,11,9,3,2,4,6,10,-4,0,Wikipédia (en)
+2024,7,Nacional de Patos,10,9,3,1,5,7,10,-3,0,Wikipédia (en)
+2024,8,Pombal,10,9,3,1,5,10,14,-4,0,Wikipédia (en)
+2024,9,São Paulo Crystal,4,9,1,1,7,4,22,-18,0,Wikipédia (en)
+2024,10,Atlético Cajazeirense,-2,9,3,2,4,8,8,0,13,Wikipédia (en)

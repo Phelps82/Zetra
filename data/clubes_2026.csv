@@ -1,0 +1,11 @@
+clube_id,nome,cidade,estadio_mandante,rebaixado_ao_fim_de_2026
+C01,Botafogo-PB,João Pessoa,Almeidão,nao
+C02,Campinense,Campina Grande,Amigão,nao
+C03,Treze,Campina Grande,Amigão,nao
+C04,Serra Branca,Campina Grande,Amigão,nao
+C05,Sousa,Sousa,Marizão,nao
+C06,Atlético Cajazeirense,Cajazeiras,Perpetão,nao
+C07,Nacional de Patos,Patos,José Cavalcanti,nao
+C08,Esporte de Patos,Patos,José Cavalcanti,nao
+C09,Pombal,Pombal,Pereirão,sim
+C10,Confiança,Sapé,Toca do Papão,sim

@@ -1,0 +1,11 @@
+pos,clube,pontos,jogos,vitorias,empates,derrotas,gols_pro,gols_contra,saldo,situacao
+1,Botafogo-PB,16,9,4,4,1,13,7,6,semifinal
+2,Campinense,15,9,4,3,2,14,9,5,semifinal
+3,Sousa,15,9,4,3,2,13,8,5,semifinal
+4,Serra Branca,14,9,4,2,3,11,10,1,semifinal
+5,Nacional de Patos,14,9,3,5,1,14,10,4,copa_paraiba
+6,Treze,12,9,4,0,5,11,11,0,copa_paraiba
+7,Esporte de Patos,11,9,3,2,4,6,9,-3,copa_paraiba
+8,Atlético Cajazeirense,10,9,3,1,5,6,11,-5,copa_paraiba
+9,Confiança,8,9,2,2,5,12,17,-5,rebaixado
+10,Pombal,8,9,2,2,5,10,18,-8,rebaixado
